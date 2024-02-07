@@ -1,32 +1,76 @@
-<footer class="bg-white mt-5 pt-5">
-    <div class="container">
-        <div class="row">
-            <div class="col">
-                <div id="logo" class="">
-                    <img src="{{ Vite::asset('resources/img/molisana-logo.png') }}" alt="Main molisana logo">
-                </div>
-                <p class="lead">Lorem ipsum dolor sit amet.</p>
-            </div>
-            <div class="col">
-                <h4 class="text-uppercase">Quick links</h4>
-                <ul class="">
-                    <li><a href="#">Lorem.</a></li>
-                    <li><a href="#">Quas.</a></li>
-                    <li><a href="#">Volupt</a></li>
-                    <li><a href="#">Esse.</a></li>
-                </ul>
-            </div>
-            <div class="col">
-                <h4 class="text-uppercase">Privacy Policy</h4>
-                <ul class="list-unstyled">
-                    <li><a href="#">Lorem.</a></li>
-                    <li><a href="#">Quas.</a></li>
-                    <li><a href="#">Volupt</a></li>
-                    <li><a href="#">Esse.</a></li>
-                </ul>
-            </div>
+<footer class="bg-white">
+    <section class="comic">
+   
+    <div class="containe">
+        <div class="padding">
+            <h6>
+                DC COMICS
+            </h6>
+            <p>
+                Characters
+            </p>
+            <p>
+                Comics
+            </p>
+            <p>
+                Movies
+            </p>
+            <p>
+                Tv
+            </p>
+            <p>
+                Games
+            </p>
+            <p>
+                Videos
+            </p>
+            <p>
+                News
+            </p>
         </div>
-
+        <div class="padding-2">
+            <h6>
+                DC
+            </h6>
+            <p>
+                Term Of Use
+            </p>
+            <p>
+                Privacy policy (new)
+            </p>
+            <p>
+                Ad Choices
+            </p>
+            <p>
+                Adversting
+            </p>
+            <p>
+                Jobs
+            </p>
+            <p>
+                Subscriptions
+            </p>
+            <p>
+                Talent Workshop
+            </p>
+        </div>
+        <div class="padding-3">
+            <h6>
+                SITES
+            </h6>
+            <p>
+                DC
+            </p>
+            <p>
+                MAD magazine
+            </p>
+            <p>
+                DC KIDS
+            </p>
+            <p>
+                DC UNIVERSE
+            </p>
+        </div>
     </div>
-    <img class="img-fluid" src="{{ Vite::asset('resources/img/footer-montagne-bottom.jpg') }}" alt="Sketched mountains background">
+    </section>
 </footer>
