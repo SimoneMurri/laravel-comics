@@ -72,5 +72,12 @@
             </p>
         </div>
     </div>
+    <div class="bg-gray">
+        <div>
+            <button>
+                SIGN-UP NOW!
+            </button>
+        </div>
+    </div>
     </section>
 </footer>
